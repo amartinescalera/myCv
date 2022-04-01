@@ -8,7 +8,11 @@
     "profile": {
       "name": "Antonio",
       "surnames": "Martín de la Escalera",
-      "description": "Talk about me it's a bit difficult... I have been working with several technologies for last years. Java, Scala, .Net, Spark and Node but my strong skills are in Java. I coded Node when I was working in London but it was four years ago. I have been working in differents roles and technologies last years from developer to Architect. \n\nI have two passion, work with technolgies and sports. I love running and ciclying. Theses activities relax me and it give me energy for continue with my day.\n\nMy job dream is working from anywhere in new technologies, learning new things and creating amazing things.\n\nSorry for my english."
+      "title": "",
+      "description": "Talk about me it's a bit difficult... I have been working with several technologies for last years. Java, Scala, .Net, Spark and Node but my strong skills are in Java. I coded Node when I was working in London but it was four years ago. I have been working in differents roles and technologies last years from developer to Architect. \n\nI have two passion, work with technolgies and sports. I love running and ciclying. Theses activities relax me and it give me energy for continue with my day.\n\nMy job dream is working from anywhere in new technologies, learning new things and creating amazing things.\n\nSorry for my english.",
+      "location": {
+        "notes": ""
+      }
     },
     "relevantLinks": [
       {
