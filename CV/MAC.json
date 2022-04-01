@@ -33,6 +33,81 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "PagoNxt (a Santander company)",
+          "URL": "https://www.pagonxt.com/home"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Contruyendo varias plataformas de pago"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring-Batch",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
